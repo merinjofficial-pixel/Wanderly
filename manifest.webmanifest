@@ -1,1 +1,25 @@
-{"name":"Wanderly — Your Cozy Trip Partner","short_name":"Wanderly","description":"Plan trips, save destinations and make travel memory collages.","start_url":"./","scope":"./","display":"standalone","background_color":"#fff7fa","theme_color":"#f8dbe7","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "./",
+  "name": "Wanderly \u2014 Your Cozy India Trip Partner",
+  "short_name": "Wanderly",
+  "description": "Discover and plan beautiful trips around India.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff1f3",
+  "theme_color": "#d96686",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
